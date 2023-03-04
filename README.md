@@ -1,2 +1,2 @@
-# pwi - pliki_zaje
+# pwi - pliki_zajec
 Programowanie w internecie
