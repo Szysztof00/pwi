@@ -26,6 +26,8 @@ nav {
     z-index: 100;
     top: 0;
     box-shadow: 1px -3px 20px -3px rgba(66, 68, 90, 1);
+    display: block;
+
 
 
 }
@@ -179,10 +181,10 @@ nav a {
     }
 
     article {
-        top: 300px;
+        top: 350px;
+        padding-bottom: 50px;
+
     }
 
-
-}
 
 }
