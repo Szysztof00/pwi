@@ -87,8 +87,9 @@ article {
     position: relative;
     text-align: justify;
     padding: 30px;
-    margin-bottom: 40px;
     float: left;
+    padding-bottom: 70px;
+
 
 }
 
@@ -182,7 +183,6 @@ nav a {
 
     article {
         top: 350px;
-        padding-bottom: 50px;
 
     }
 
