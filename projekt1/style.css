@@ -143,11 +143,57 @@ nav a {
 
 @media only screen and (max-width: 980px) {
     .menu {
+        display: inline-block;
+        width: 100;
+        transform: translate(-150%);
+        border-radius: 10px;
+        border-top: 2px solid #303c4c;
+        border-bottom: 2px solid #303c4c;
+
+    }
+
+    .menu:hover {
+        border-radius: 10px;
+
+    }
+
+    nav {
+        height: 210px;
+        transition: 0.5s;
+    }
+
+    .logo {
+        left: 50%;
+        transform: translate(-50%);
+        transition: 0.5s;
+    }
+
+    .menu:first-child {
+        margin-left: 5px;
+
+    }
+
+    nav .opcje {
+        top: 100px;
+        left: 50%;
+        width: 80%;
+    }
+
+    article {
+        top: 210px;
+
+    }
+
+
+}
+
+
+@media only screen and (max-width: 780px) {
+    .menu {
         display: block;
         width: 100%;
         transform: translate(-50%);
         border-radius: 10px;
-        transition: 0.5s;
         margin-top: 5px;
         border-top: 2px solid #303c4c;
         border-bottom: 2px solid #303c4c;
