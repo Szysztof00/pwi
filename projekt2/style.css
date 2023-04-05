@@ -60,6 +60,9 @@ a{
      cursor: pointer;
  }
 
+.photo{
+    width: 70%;
+}
  aside {
      background-color: white;
      padding: 15px;
