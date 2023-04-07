@@ -27,7 +27,7 @@ We combine traditional services with market-leading digital asset management sol
 Supported by our smart systems, innovative ways of working and cutting-edge technology, we ensure we deliver on time, on budget and above all safely. Integer et tempus risus. Quisque imperdiet odio at ante luctus, ut vulputate sem tempus. In hac habitasse platea dictumst. Curabitur a turpis ipsum. Morbi est ex, viverra a imperdiet ac, dignissim id justo. Phasellus ac mattis leo. Sed tempor pretium tortor sagittis ornare. Ut sollicitudin elit ut justo euismod finibus. Quisque viverra accumsan ligula, non condimentum erat luctus nec. Etiam et condimentum nunc. Suspendisse id ultricies odio, at sagittis erat. Aenean non elementum erat, in pellentesque eros. Nunc luctus turpis in nisi venenatis scelerisque. Praesent efficitur ante non dui finibus mattis. Praesent sed sapien sem.
 <br><br>
             </p>`,
-            'contact': `<h1>Kontakt</h1><p>Cześć, aby się z nami skontaktować wystaczy, ż napiszesz do nas wiadomość mailową: <br>
+            'contact': `<h1>Kontakt</h1><p>Cześć, aby się z nami skontaktować wystaczy, że napiszesz do nas wiadomość mailową: <br>
         <center><a href=mailto:lorem@ipsum.pl>lorem@ipsum.pl</a></center></p>`
         };
 
