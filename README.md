@@ -1,4 +1,3 @@
-# pwi - pliki_zajec
 <h1>Programowanie w internecie</H1>
 
 <ul>
