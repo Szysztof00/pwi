@@ -38,6 +38,12 @@ a{
      border-radius: 5px;
  }
 
+header img{
+    left: 50%;
+    transform: translate(-50%);
+    position: relative;
+}
+
  nav ul {
      list-style-type: none;
      margin: 0;
